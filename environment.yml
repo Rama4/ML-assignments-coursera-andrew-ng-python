@@ -1,0 +1,4 @@
+name: mlcourse
+dependencies:
+  - numpy
+  - pandas
